@@ -13,4 +13,4 @@ pip install -r requirements.txt
 python main.py
 ```
 
-За помощью обращаться сюда **[VK](vk.com/jav1x)**
+За помощью обращаться в лс: **[VK](vk.com/jav1x)**
